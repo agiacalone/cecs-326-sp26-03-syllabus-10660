@@ -1,20 +1,20 @@
 # Operating Systems
 
-## CECS 326: Section 1 (1121)
+## CECS 326: Section 3 (10660)
 
-### Spring 2025
+### Spring 2026
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Tue Thu       | 5:00 PM - 6:15 PM   | HC-120  |
+| Tue Thu       | 3:30 PM - 4:45 PM   | FCS-008 |
 
 | Instructor        | Email                       | Office  | Office Hours             |
 |-------------------|-----------------------------|---------|--------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mon-Thu |
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 |  1:30 - 3:30 PM Tu, Th       |
 
 ### Required Textbook
 
-* [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X), 4th edition, by Andrew Tanenbaum and Herbert Bos
+* [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X), 5th edition, by Andrew Tanenbaum and Herbert Bos
 
 ### Optional Textbooks
 
@@ -75,22 +75,22 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 | Week       | Subject                                             |
 |------------|-----------------------------------------------------|
-| Jan 20     | Introduction to Operating Systems (Ch 1)            |
-| Jan 27     | Processes and Threads (Ch 2)                        |
-| Feb  3     | Processes and Threads, ctd                          |
-| Feb 10     | First Midterm, Memory Management (Ch 3)             |
-| Feb 17     | Memory Management, ctd                              |
-| Feb 24     | Deadlock                                            |
-| Mar  3     | Deadlock, ctd                                       |
-| Mar 10     | I/O (ch 5)                                          |
-| Mar 17     | I/O, ctd                                            |
-| Mar 14     | Second Midterm                                      |
-| Mar 31     | **Spring Break**                                    |
-| Apr  7     | File Systems (Ch 6)                                 |
-| Apr 14     | File Systems, ctd                                   |
-| Apr 21     | Virtualization (Ch 7)                               |
-| Apr 28     | Virtualization, ctd                                 |
-| May 5-12   | Case Studies, Final Exam                            |
+| Jan 19     | Introduction to Operating Systems (Ch 1)            |
+| Jan 26     | Processes and Threads (Ch 2)                        |
+| Feb  2     | Processes and Threads, ctd                          |
+| Feb  9     | First Midterm, Memory Management (Ch 3)             |
+| Feb 16     | Memory Management, ctd                              |
+| Feb 23     | Deadlock                                            |
+| Mar  2     | Deadlock, ctd                                       |
+| Mar  9     | I/O (ch 5)                                          |
+| Mar 16     | I/O, ctd                                            |
+| Mar 13     | Second Midterm                                      |
+| Mar 30     | **Spring Break**                                    |
+| Apr  6     | File Systems (Ch 6)                                 |
+| Apr 13     | File Systems, ctd                                   |
+| Apr 20     | Virtualization (Ch 7)                               |
+| Apr 27     | Virtualization, ctd                                 |
+| May 4-11   | Case Studies, Final Exam                            |
 
 
 ### Computer Software
